@@ -32,3 +32,12 @@ This project explores the integration of **Human-in-the-Loop (HIL)** techniques 
 - Prioritized sampling of human intervention data
 - Application of the method to different environments or RL algorithms
 - Improving the quality and accuracy of human input for better guidance
+
+
+## 🏆 Award
+- Best Presentation Award, 2025 Spring Conference of the Korea Multimedia Society (KMMS)
+
+
+## 📄 Documentation
+- [📑 View Presentation Poster](./docs/2025_춘계학술대회%20포스터.pdf)
+- [📄 View Paper](./docs/%5B논문%5D김한재_멀티학회학술발표대회.pdf)
